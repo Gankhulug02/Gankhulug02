@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gankhulug</h1>
 <h3 align="center">A Passionate Software Engineer From Mongolia</h3>
 
-<img align="center" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif"/>
+<img align="center" alt="coding" width="700" src="https://www.lambdatest.com/resources/images/news24.gif"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gankhulug02&label=Profile%20views&color=0e75b6&style=flat" alt="gankhulug02" /> </p>
