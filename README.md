@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gankhulug02" alt="gankhulug02" /></a> </p>
 
-- 🌱 I’m currently learning **PinCone Academy**
+- 🌱 I’m currently learning at PinCone Academy**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gankhulug02](https://github.com/Gankhulug02)
 
