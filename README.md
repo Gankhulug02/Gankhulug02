@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gankhulug</h1>
 <h3 align="center">A Passionate Software Engineer From Mongolia</h3>
 
-<img align=“right” alt=“coding” width=“400” src=“
-￼
+<img align=“right” alt=“coding” width=“400” src=“![image](https://user-images.githubusercontent.com/115862541/229691998-70aa391a-3976-47d9-95b4-448cd8c89268.png)
 ”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gankhulug02&label=Profile%20views&color=0e75b6&style=flat" alt="gankhulug02" /> </p>
