@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gankhulug</h1>
 <h3 align="center">A Passionate Software Engineer From Mongolia</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/115862541/229692342-8ccd874c-3d36-4736-be8b-e659e0fcd6e5.png
-"/>
+<img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gankhulug02&label=Profile%20views&color=0e75b6&style=flat" alt="gankhulug02" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gankhulug02" alt="gankhulug02" /></a> </p>
