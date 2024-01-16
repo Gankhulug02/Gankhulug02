@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React, Next.js**
 
-- 📫 How to reach me **huluguu0202@gmail.com**
+- 📫 How to reach me **work.gankhulug@gmail.com**
 
 - 📄 Know about my experiences [https://portfolio-gankhulug-15u6a0uho-azuregankhulugurtnasan-gmailcom.vercel.app/](https://portfolio-gankhulug-15u6a0uho-azuregankhulugurtnasan-gmailcom.vercel.app/)
 
