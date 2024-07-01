@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gankhulug</h1>
 <h3 align="center">A Passionate Software Engineer From Mongolia</h3>
 
-<div>
+<div align="center">
   <img align="center" alt="coding" width="600" src="https://www.lambdatest.com/resources/images/news24.gif"/>
 </div>
 
